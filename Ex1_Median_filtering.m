@@ -2,7 +2,7 @@
 
 
 %Read data from image file by function name "imread" 
-A=imread('GUI_Gabor2D/1_1.tif');
+A=imread('1_1.tif');
 title('IMAGE WITH SALT AND PEPPER NOISE');
 figure,imshow(A);
 %{
